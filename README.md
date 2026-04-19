@@ -10,7 +10,7 @@ If you want to experiment with the same noise index as in the paper, the noise i
 ### Training new models
 
 ```
-sh run_rde.sh
+sh run.sh
 ```
 
 ### Evaluation
